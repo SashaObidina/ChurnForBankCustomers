@@ -1,1 +1,1 @@
-Solving the problem of Churn for bank customers.
+Solving the problem of churn for bank customers.
